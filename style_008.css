@@ -1,0 +1,35 @@
+/* Css for RMarkdown Documents */
+
+body {
+  
+  
+  background-color: #FFFAF0;
+  
+  
+}
+
+div {
+  
+  text-align: justify;
+  
+  text-justify: inter-word;
+  
+  font-size: 18px;
+  
+  font-family: Arial;
+}
+
+
+a {
+  
+  text-decoration: none;
+  
+  color: orange;
+  
+}
+
+a:hover{
+  
+  color: purple;
+  
+}
